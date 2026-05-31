@@ -69,4 +69,3 @@ Evaluated PAIR, GCG, and Prompt-RS attacks against LLaMA-3.1, LLaMA-4, and Qwen3
 ---
 
 *Open to AI Engineer, ML Engineer, and Research Engineer roles.*
-<img width="1285" height="827" alt="image" src="https://github.com/user-attachments/assets/469a6d0b-f158-4cf9-87f5-d1b91617ee4c" />
